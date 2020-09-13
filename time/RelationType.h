@@ -1,0 +1,1 @@
+enum RelationType {BEFORE, SAME, AFTER};
