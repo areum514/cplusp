@@ -51,3 +51,19 @@ int main (){
    }
    return 0; 
 }
+
+/*#include <iostream>
+#include <string>
+#include "Entry.h"
+
+using namespace std;
+
+int main() {
+    Entry entry1("Susy", "Sunshine", "Smith", 12, 20, 0);
+    Entry entry2("Marvin", "Moonlight", "Morgan", 10, 30, 0);
+
+    cout << "Entry1 " << entry1.GetNameStr() << " " << entry1.GetTimeStr() << endl;
+    cout << "Entry2 " << entry2.GetNameStr() << " " << entry2.GetTimeStr() << endl;
+
+    return 0;
+}*/
